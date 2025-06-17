@@ -66,8 +66,14 @@
 		{
 			"title": "SmartTubeNext",
 			"description": "Cмотрим Ютуб с HDR и пропуском всей рекламы. ЗАЖАТЬ ДЛЯ ОБЗОРА",
-			"url": "https://web.archive.org/web/20220930044718/https://tecnozon.h1n.ru/smarttube_stable.apk",
-			"mirror": "https://web.archive.org/web/20220930044718/https://technozon.s-host.net/smarttube_stable.apk",
+			"url": "https://gamardal.github.io/tinstaller/youtube/SmartTube_stable_27.99_armeabi-v7a.apk",
+			"app_review": "https://youtu.be/8xNVCbsxtD0",
+			"category": "YouTube"
+		},
+		{
+			"title": "SmartTubeNext Beta",
+			"description": "Cмотрим Ютуб с HDR и пропуском всей рекламы. Бета версия ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://gamardal.github.io/tinstaller/youtube/SmartTube_beta_28.13_armeabi-v7a.apk",
 			"app_review": "https://youtu.be/8xNVCbsxtD0",
 			"category": "YouTube"
 		},
@@ -76,14 +82,6 @@
 			"description": "Youtube без рекламы и без привязки к гугл аккаунту. ЗАЖАТЬ ДЛЯ ОБЗОРА",
 			"url": "https://web.archive.org/web/20220930044718/https://tecnozon.h1n.ru/NewPipe.apk",
 			"mirror": "https://web.archive.org/web/20220930044718/https://technozon.s-host.net/NewPipe.apk",
-			"app_review": "https://youtu.be/5VFy_u6YGS0",
-			"category": "YouTube"
-		},
-		{
-			"title": "YouTube Vanced",
-			"description": "Знаменитый клиент Youtube Без рекламы. ЗАЖАТЬ ДЛЯ ОБЗОРА",
-			"url": "https://web.archive.org/web/20220930044718/https://tecnozon.h1n.ru/manager.apk",
-			"mirror": "https://web.archive.org/web/20220930044718/https://technozon.s-host.net/manager.apk",
 			"app_review": "https://youtu.be/5VFy_u6YGS0",
 			"category": "YouTube"
 		},
