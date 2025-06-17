@@ -1,0 +1,352 @@
+{
+  "apps": [
+    {
+      "title": "Aurora store LATEST",
+      "description": "Альтернативный маркет приложений, который подключается в фоновом режиме к Google Play.",
+      "url": "https://www.auroraoss.com/downloads/AuroraStore/Latest/latest.apk",
+      "app_review": "https://youtube.com/watch?v=jdGk1RvPm7c",
+      "mirror": "aurora",
+      "category": "Маркеты",
+      "ver": "LATEST"
+    },
+    {
+      "title": "Aptoide ATV LATEST",
+      "description": "Адаптированный для ATV альтернативный маркет приложений",
+      "url": "https://www.dropbox.com/scl/fi/1gb3shaksax7kwcbafk9g/aptoidetv-5.3.1.apk?rlkey=5qrnrzmwk0fzuydl4w8dkzu0y&st=ok1e7syu&dl=1",
+      "mirror": "aptoid",
+      "ver": "LATEST",
+      "category": "Маркеты"
+    },
+    {
+      "title": "Universal Aptoide ATV/FireOS",
+      "description": "Aptoide TV предлагает вам магазин приложений, который предоставляет контент с богатым пользовательским опытом, оптимизированным для устройств с большим экраном, таких как телевизоры с высоким разрешением. Да, это означает, что вы можете использовать Aptoide не только на своих мобильных устройствах, но и с комфортом дивана.",
+      "url": "https://www.dropbox.com/scl/fi/143vj5lihhoohzj66aai2/AptoideTV-5.1.2.apk?rlkey=y5nusi99knjg574xq9obhe0hz&dl=1",
+      "mirror": "aptoideatvfireos",
+      "category": "Маркеты",
+      "ver": "5.1.2"
+    },
+    {
+      "title": "APKPure TV",
+      "description": "APKPure App — это альтернативный маркет приложений. Программа позволяет вам искать APK-файлы игр и приложений и устанавливать их на ваше устройство без использования официального магазина Google Play.\nВозможности:\n— Хороший дизайн и небольшой размер приложения;\n— Разделение игр и приложений на разные категории: популярные, рекомендуемые, игры, приложения, обновления (для вашего устройства);\n— Поиск по названию игры, приложения, разработчика;\n— Загрузка приложений, которые могут быть нестандартными (в Google Play) для вашей страны;\n— Достаточно быстрая загрузка APK-файлов и простая установка.\n 🖲️ТРЕБУЕТСЯ МЫШЬ",
+      "url": "https://www.dropbox.com/scl/fi/sw4yxbdg8a46wklf2j425/APKPure_TV-3.20.33-noArch-fix.apk?rlkey=ft6s1lmigk4qom8tzhewshn9f&dl=1",
+      "mirror": "APKPure",
+      "ver": "3.20.33",
+      "category": "Маркеты"
+    },
+    {
+      "title": "Viewbox",
+      "description": "✳️ ViewBox — популярный, лёгкий онлайн-кинотеатр для вашего Android TV. Бесплатный доступ к хорошей базе данных с качественным контентом.\n✳️ ViewBox — мощное и простое в использовании приложение для просмотра онлайн-медиа для Android TV и приставок.\n✳️ Установив приложение на ваше устройство, вы получите доступ к огромному количеству популярных фильмов, сериалов, мультфильмов с отличным качеством.\n✳️ Есть возможность загрузки с выбором качества видео (от 144 до 2160).\n✳️ Оригинал + Мод без рекламы.\n⭐️ ВАЖНО\n⚠️ PS Если при запуске пишет что-то вроде: нет интернета (или что-то подобное), после этого зайдите в НАСТРОЙКИ ➡️ ИСПОЛЬЗОВАТЬ ПРИНУДИТЕЛЬНО ДРУГОЙ DNS ➡️ галочка ☑️",
+      "url": "https://www.dropbox.com/scl/fi/fii1oz2mdrzvoq7uz0cn9/ViewBox-1.8.13.mod.apk?rlkey=5fubzi5ucvmmoge254cq34nn9&st=51n5t0ea&dl=1",
+      "mirror": "viewbox",
+      "ver": "1.8.13",
+      "category": "Кино"
+    },
+    {
+      "title": "New Digital Release",
+      "description": "Обновлённая версия NDR для Android TV",
+      "url": "https://www.dropbox.com/scl/fi/lxm345w2mhluirw2y76ta/NewDigital-Releases-0.77.apk?rlkey=940drbujvgikdgg8p7ysoy8b7&dl=1",
+      "mirror": "NewDigitalRelease",
+      "ver": "0.77",
+      "category": "Кино"
+    },
+    {
+      "title": "Video Screensaver Pro",
+      "description": "Скринсейвер для Android TV. Happymod",
+      "url": "https://robyivanov.github.io/my_robbyinstaller/Video_Screensaver_Pro.apk",
+      "mirror": "ScreensaverPro",
+      "category": "Скринсейверы",
+      "ver": "999"
+    },
+    {
+      "title": "Starflield Live wallpaper",
+      "description": "Скринсейвер для Android TV",
+      "url": "https://www.dropbox.com/scl/fi/pwop2si8q84emmyfyxuaj/Starfield-TV-Live-Wallpaper-1.0.11.apk?rlkey=4lgbvbhtvnm6uraln48ekolg4&dl=1",
+      "mirror": "Starfield",
+      "category": "Скринсейверы",
+      "ver": "1.0.11"
+    },
+    {
+      "title": "VLC плеер ATV",
+      "description": "VLC плеер для AndroidTV",
+      "url": "https://www.dropbox.com/scl/fi/l4fs2o9skiih9i4jrbc6p/VLC-3.4.4.apk?rlkey=uqkbdo3u6obqj4y25rl6msnz5&dl=1",
+      "mirror": "vlcatv",
+      "ver": "3.4.4",
+      "category": "Видеоплееры"
+    },
+    {
+      "title": "Analiti",
+      "description": "Многофункциональный тестер скорости интернета, анализатор Wi-Fi, iPerf и др. Модификация.",
+      "url": "https://www.dropbox.com/scl/fi/mr9kb94q572187sb1zxi8/Analiti-Pro-v2025.03.85097.apk?rlkey=0me52ck8onh6mr76dxhdfwztr&dl=1",
+      "mirror": "analiti",
+      "ver": "2025.03.85097",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Speedtest",
+      "description": "Тест скорости интернета. Модификация.",
+      "url": "https://www.dropbox.com/scl/fi/j1ztmgyh8nvlsz4dl5yz2/Speedtest-Premium-v6.0.0_build_227786-Mod-arm64-v8a.apk?rlkey=hobrzl9f3wbwgglov9h57x8jq&dl=1",
+      "mirror": "Speedtest",
+      "ver": "6.0.0",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Button Mapper",
+      "description": "Настройка дополнительных функций кнопок пульта дистанционного управления. Не работает для кнопок \"NETFLIX\", \"Live\" или \"prime\". Модификация.",
+      "mirror": "ButtonMapper",
+      "app_review": "https://youtu.be/sDsZieZufw4",
+      "url": "https://www.dropbox.com/scl/fi/wnmwjnrm2y1pmb60fim3k/Button_Mapper_3.26-Pro.apk?rlkey=y6cldq2tr2p6kbxhh55r0100s&dl=1",
+      "ver": "3.26",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Lampa",
+      "description": "Просмотр онлайн-фильмов, торрентов (через сервис TorrServe) на устройствах Smart TV и Android TV. Приложение позволяет смотреть сериалы, мультфильмы. Приложение очень похоже на vplay, но также имеет выбор фильмов по актёрам и возможность добавления контента в закладки. Важно! Чтобы вы могли смотреть торренты, нужно зайти в настройки, в раздел Парсер и активировать его. Кроме того, хорошо установить и настроить TorrServer. Если он уже существует и в нём сделаны все необходимые настройки, то в Lampa всё будет работать. Можно использовать парсер Jackett. Поиск торрентов из разных источников — Rutor, Kinozal, Rutracker, TorrentBY, NnmClub. Плееры — Kodi (если хотите болгарские субтитры), Vimu, MX Player, VLC, Nova и BSP",
+      "url": "https://www.dropbox.com/scl/fi/k8eo78bld4xadwaj5ee3i/Lampa-1.11.0.apk?rlkey=w0rqjsnadiwer55zh5c4cva40&dl=1",
+      "app_review": "https://www.youtube.com/playlist?list=PLoIMtcckkf-NmqeWF8YU_VPCoSP1wP6BC",
+      "mirror": "lampa",
+      "ver": "1.11.0",
+      "category": "Стриминг"
+    },
+    {
+      "title": "TorrServe",
+      "description": "Приложение для просмотра телевидения, фильмов и сериалов из торрентов без скачивания, посредством приложений NUM, Lampa, LazyMediaDeluxe и других.",
+      "url": "https://www.dropbox.com/scl/fi/vdygfb5xo07o4fv8tqs9q/TorrServe_MatriX.135.Client-release.apk?rlkey=vkzxb7i2uqrrv7hztfp54vgem&dl=1",
+      "mirror": "TorrServe",
+      "ver": "135",
+      "category": "Стриминг"
+    },
+    {
+      "title": "FilmPlus",
+      "description": "Приложение для просмотра онлайн-фильмов и сериалов.",
+      "url": "https://www.dropbox.com/scl/fi/w56btj6e8xamqju6lz9hx/FilmPlus-v2.2.5r-MOD.apk?rlkey=lv1djgh3w4uvypxzy01ii6cd2&dl=1",
+      "mirror": "FilmPlus",
+      "ver": "2.2.5",
+      "category": "Кино"
+    },
+    {
+      "title": "ViMu Media Player",
+      "description": "Лучший плеер для Android TV. Модификация. НАЖМИТЕ И УДЕРЖИВАЙТЕ КНОПКУ ОК ДЛЯ ПРОСМОТРА ПРОГРАММЫ",
+      "url": "https://www.dropbox.com/scl/fi/tmfynxi7h7uevt7j98i0m/Vimu-Media-Player_10.83.apk?rlkey=wuchkugfa11557travgclh1j6&dl=1",
+      "app_review": "https://www.youtube.com/playlist?list=PLoIMtcckkf-NgL7-Cj49iZgk9U3lGzdAU",
+      "mirror": "Vimu",
+      "ver": "10.83",
+      "category": "Видеоплееры"
+    },
+    {
+      "title": "X-plore",
+      "description": "Один из лучших файловых менеджеров. НАЖМИТЕ И УДЕРЖИВАЙТЕ КНОПКУ ОК ДЛЯ ПРОСМОТРА ПРОГРАММЫ",
+      "url": "https://www.dropbox.com/scl/fi/pbsipoistlps55l7c66gw/X-plore-v4.42.00-MOD.apk?rlkey=13vlvfeukxj0jgppmdp5dro5a&dl=1",
+      "mirror": "x-plore",
+      "ver": "4.42.00",
+      "app_review": "https://youtu.be/s176z65mzEE",
+      "category": "Инструменты"
+    },
+    {
+      "title": "tvQuickActions",
+      "description": "tvQuickActions — это программа для перенастройки кнопок, разработанная специально для телевизионных устройств. Поддерживает Android TV, Google TV и AOSP на большинстве устройств. Одна из основных уникальных функций позволяет вам назначить до 5 действий на кнопку вашего пульта и добавить множество полезных функций к вашему устройству.",
+      "url": "https://www.dropbox.com/scl/fi/5fj9hnoyo6or3savqqcyk/tvQuickActions_Pro_v3.5.5_296.apk?rlkey=w0u8r7261vd6g1ghfnaqfp431&dl=1",
+      "mirror": "tvQuickActions",
+      "app_review": "https://www.youtube.com/watch?v=_Eb_X4dmGkk",
+      "ver": "3.5.5",
+      "category": "Инструменты"
+    },
+    {
+      "title": "TiviMate",
+      "description": "С Tivimate вы можете смотреть телевизионные каналы в прямом эфире от вашего провайдера IPTV на Android Set-Top боксе или ATV.\n\nОсновные функции:\n• Современный пользовательский интерфейс, предназначенный для больших экранов\n• Поддержка нескольких плейлистов\n• Обновление запланированного телевизионного гида\n• Избранные каналы\n• Догоняющее воспроизведение\n• Поиск\n• и многое другое",
+      "url": "https://www.dropbox.com/scl/fi/qpzy31vp4gdmgrv6bbohg/TiviMate-5.1.6.apk?rlkey=2n0bm6z4iwn5l25043xt7domm&dl=1",
+      "mirror": "tivimate",
+      "ver": "5.1.6",
+      "category": "IPTV"
+    },
+    {
+      "title": "LazyMediaDeluxe Pro",
+      "description": "Обширный каталог фильмов и сериалов, агрегатор торрентов без ограничений. Есть поддержка ATV и TV Box.",
+      "url": "https://www.dropbox.com/scl/fi/krswbxy869iy7nzgq7v4y/LazyMediaDeluxe-v.3.369.Mod.apk?rlkey=w1xo0pax6w4vrspz3x79w078c&dl=1",
+      "mirror": "lazymedia",
+      "ver": "3.369",
+      "category": "Кино"
+    },
+    {
+      "title": "NUM",
+      "description": "Онлайн-кинотеатр, который ищет в торрент-трекерах. Для просмотра вам понадобится торрент-движок, такой как TorrServe, и плеер, такой как Kodi",
+      "url": "https://www.dropbox.com/scl/fi/j203u7mpveblzze63w6bq/NUM_1.0.133-release.apk?rlkey=z3q4zk8677em55co5zs5sc4m1&dl=1",
+      "mirror": "num",
+      "ver": "1.0.133",
+      "app_review": "https://www.youtube.com/watch?v=5LcmAIBmBPg",
+      "category": "Кино"
+    },
+    {
+      "title": "OTT-play",
+      "description": "IPTV минималистичный плеер. Интерфейса практически нет. Нужен ваш плейлист!",
+      "url": "https://www.dropbox.com/scl/fi/7t68iufb78i8rcbyfjn2c/ott-play-2.17.apk?rlkey=camdc9cqbtkenpk54uznuaouw&dl=1",
+      "mirror": "ott-play",
+      "ver": "2.17",
+      "category": "IPTV"
+    },
+    {
+      "title": "Puffin Browser",
+      "description": "Браузер для ATV",
+      "url": "https://www.dropbox.com/scl/fi/2ntflu7lt3jzopo0paqix/Puffin-Browser-Pro.apk?rlkey=lh74mo2vspe6mbnsl4w6q8554&dl=1",
+      "mirror": "puffin",
+      "app_review": "",
+      "ver": "pro",
+      "category": "Браузеры"
+    },
+    {
+      "title": "Browser for ATV",
+      "description": "Браузер для ATV",
+      "url": "https://www.dropbox.com/scl/fi/tk581riiv3g9py7zhw0sm/Browser-Android-TV-v2.0.3-Premium.apk?rlkey=4gfdhtsneh05wbalg46mp3zek&dl=1",
+      "mirror": "browserfortv",
+      "app_review": "",
+      "ver": "2.0.3",
+      "category": "Браузеры"
+    },
+    {
+      "title": "Set Orientation",
+      "description": "Поворот экрана для «телефонных» приложений.",
+      "url": "https://www.dropbox.com/scl/fi/vaamhgsqoy6cbz3gyvbut/Set-Orientation-1.1.4.apk?rlkey=wf4y0c23kyh48e32j9qk8ckuh&dl=1",
+      "mirror": "setorientation",
+      "ver": "1.1.4",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Send Files To Tv MOD",
+      "description": "SFTTV — простое приложение для загрузки файлов на Android TV, ваше мобильное устройство с Android и ваш ПК. Позволяет быстро и легко загружать файлы и клипы между вашими устройствами. Работает через локальную сеть, интернет не нужен",
+      "mirror": "sendfilestotv",
+      "ver": "1.3.8",
+      "url": "https://www.dropbox.com/scl/fi/xfutc1dddageyivhtp0nw/Send-files-to-TV-1.3.8.apk?rlkey=tvpc46x0pbfqe5tb4t42a1k0a&dl=1",
+      "category": "Инструменты"
+    },
+    {
+      "title": "IPTV-Pro",
+      "description": "Классический «синий» IPTV-плеер, простой и доступный в использовании. Нужен ваш плейлист. Модификация.",
+      "url": "https://www.dropbox.com/scl/fi/12ppxrw0bwz88618y2w76/IPTV-Pro-v9.0.13-ARM-v7a.apk?rlkey=dyl1r0i9kxona3ekwswquc2ub&dl=1",
+      "mirror": "iptvpro",
+      "ver": "9.0.13",
+      "category": "IPTV"
+    },
+    {
+      "title": "Easy Fire Tools",
+      "description": "С этим приложением становится лёгкой задачей установка (sideload) приложений на Amazons FireTV или другие Android-устройства прямо с вашего телефона/планшета.\n\nХарактеристики\n- Установка (sideload) приложений на FireTV и другие Android-устройства\n- Создание снимков экрана или записей с экрана самого устройства",
+      "url": "https://www.dropbox.com/scl/fi/jx77tjbv4d27tpz5pq7qf/EasyFireTools_v1.1.8.apk?rlkey=2ve33sw9icesm15p8r2o4o8yn&st=1vjbmpn4&dl=1",
+      "mirror": "easyfiretools",
+      "ver": "1.1.8",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Mi Box Button Remapper",
+      "description": "Mi Box Button Remapper — переназначение кнопки Netflix на пульте дистанционного управления устройств Xiaomi Mi Box. Инструкции находятся в самом приложении. Внимание! После установки сначала нужно обновить приложение в Google Play и только затем выполнять настройки!",
+      "url": "https://dradler.pp.ru/apps/MiBox_Button_Remapper.apk",
+      "mirror": "mibbr",
+      "ver": "0",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Easy Fire Tools",
+      "description": "С этим приложением становится лёгкой задачей установка.Concurrent (sideload) приложений на Amazons FireTV или другие Android-устройства прямо с вашего телефона/планшета.\n\nХарактеристики\n- Установка (sideload) приложений на FireTV и другие Android-устройства\n- Создание снимков экрана или записей с экрана самого устройства",
+      "url": "https://www.dropbox.com/scl/fi/lv6v5aflesp8mx9txbzpo/EasyFireTools-1.1.7-1.apk?rlkey=bzp1q6ji2zo0q582nkpau94aa&dl=1",
+      "mirror": "easyfiretools",
+      "ver": "1.1.7",
+      "category": "FireTV"
+    },
+    {
+      "title": "LazyIPTV Deluxe",
+      "description": "IPTV-плеер с удобным интерфейсом, уникальными функциями и использующий движок ExoPlayer. Нужен ваш плейлист.",
+      "url": "https://www.dropbox.com/scl/fi/vbr01jfari6djt5y9az36/LazyIPTV-Deluxe-3.15.apk?rlkey=8qydwddlg1kfrbsx16q48ldfg&dl=1",
+      "mirror": "lazyiptv",
+      "ver": "3.15",
+      "category": "IPTV"
+    },
+    {
+      "title": "SmartTube",
+      "description": "Заменитель YouTube с ещё большим количеством альтернативных функций. Привязывается к профилю YT.",
+      "url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
+      "mirror": "smarttube",
+      "ver": "latest",
+      "category": "Видеоплееры"
+    },
+    {
+      "title": "FileManager Plus",
+      "description": "File Manager + — это простой и мощный файловый проводник для Android-устройств.",
+      "url": "https://www.dropbox.com/scl/fi/a8l0dcefxz7l3unr7r7qu/File-Manager-Premium-v3.5.6.apk?rlkey=7184v0sz6i3vcct51y5d5u51z&dl=1",
+      "mirror": "filemanagerplus",
+      "ver": "3.5.6",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Total-Commander",
+      "description": "Total Commander — популярный и многофункциональный файловый менеджер для операционной системы Android.",
+      "url": "https://www.dropbox.com/scl/fi/guolmhorf7flvn8jwdb2u/Total_Commander-v3.50.apk?rlkey=s2jcivuy98xenk6vw54nbyyk6&dl=1",
+      "mirror": "totalcommander",
+      "ver": "3.50",
+      "category": "Инструменты"
+    },
+    {
+      "title": "KinoTrend",
+      "description": "KinoTrend — приложение для просмотра фильI фильмов онлайн и торрентов. Только фильмы и только новые позиции, с хорошим качеством, за последние 90 дней. Несколько онлайн-источников.\nПоддержка Android TV",
+      "url": "https://www.dropbox.com/scl/fi/u07u5gpwu5xvlie2vcd7m/KinoTrend-2.3.8.apk?rlkey=k2f0bs2lu1hdzrlpxacr6hd7a&dl=1",
+      "app_review": "https://youtu.be/0niIUegv3SE",
+      "mirror": "kinotrend",
+      "ver": "2.3.8",
+      "category": "Кино"
+    },
+    {
+      "title": "AIDA64",
+      "description": "AIDA64: Мощный инструмент для получения исчерпывающей информации о вашем устройстве. И о железе, и о софте.\n\nХарактеристики модификации:\n\n- Разблокированы платные функции;\n- Удалена реклама;\n- Удалены нежелательные службы и разрешения;\n- Отключён доступ к сети;\n- Уменьшен размер приложения;\n- Отключён доступ в интернет;\n- Удалён код для устранения ошибок.",
+      "url": "https://www.dropbox.com/scl/fi/xfcfiom5oxc6ylxppvbh1/AIDA64-Premium-v2.06_build_206-Mod.apk?rlkey=ql5b88nzxpxfjhsfxusrpfeq7&dl=1",
+      "mirror": "aida64",
+      "ver": "64",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Repository Don't_Panic",
+      "description": "🌐Хранилище для дополнения Plex",
+      "url": "https://pannal.github.io/dontpanickodi/repository.dontpanic-0.2.6-1.zip",
+      "mirror": "dontpanic",
+      "ver": "0.2.6-1",
+      "category": "Kodi repo"
+    },
+    {
+      "title": "Repository Mar33",
+      "description": "🌐Хранилище для дополнений Martin33",
+      "url": "http://martinstz.com/repo/repository.mar33-3.3.33.zip",
+      "mirror": "mar33",
+      "ver": "3.3.33",
+      "category": "Kodi repo"
+    },
+    {
+      "title": "KodiNerds Omega",
+      "description": "💥Название: Kodinerds\n💥Версия: 21 Omega\n💥Разработчик: Maven\n💥Требуемая ОС: Android 5.0+",
+      "url": "https://www.dropbox.com/scl/fi/q0qvicizfho1ldw5g3bbn/kodi-21.0-Omega-armeabi-v7a.apk?rlkey=ut32twbo51lzql24rka5vjlsy&dl=1",
+      "mirror": "kodinerdsomega",
+      "ver": "21.0",
+      "category": "Kodi"
+    },
+    {
+      "title": "KodiNerds FireTV Omega",
+      "description": "💥Название: Kodinerds\n💥Версия: 21 Omega\n💥Разработчик: Maven\n💥Требуемая ОС: Android 5.0+",
+      "url": "https://www.dropbox.com/scl/fi/o8subdxfkecsjqfngjkkp/Kodinerds-v21.0-for-FireTV-ARM-v7a-20240408.apk?rlkey=m353nj90dcy1m75gyktx7yryo&dl=1",
+      "mirror": "kodinerdsfiretvomega",
+      "ver": "21.0",
+      "category": "FireTV"
+    },
+    {
+      "title": "OTTNavigator",
+      "description": "Мощный и очень адаптивный IPTV-плеер, который стабильно работает на всех Android-устройствах, включая телевизоры (Android TV), (TV-боксы), планшеты и смартфоны",
+      "url": "https://www.dropbox.com/scl/fi/gaou86urbvick3lkit6y0/OTT-Navigator-v1.7.2.2.apk?rlkey=2kexml1ykyctzs5kevbnoaqyu&dl=1",
+      "mirror": "ottnavigator",
+      "ver": "1.7.2.2",
+      "category": "IPTV"
+    },
+    {
+      "title": "StbEmu",
+      "description": "С помощью этого плеера можно смотреть сталкер-порталы, а также порталы с маками.",
+      "url": "https://www.dropbox.com/scl/fi/dsk6xem2rr4pee7xdcqcj/StbEmu-Pro-v2.0.14.01-ARM-v7a.apk?rlkey=ny3ml9793uq400tuzlk5i0nz7&dl=1",
+      "mirror": "stbemu",
+      "ver": "2.0.14.01",
+      "category": "IPTV"
+    },
+    {
+      "title": "RedBull TV",
+      "description": "Приложение с каналами Red Bull TV. Легально лицензированный контент.\n\nПриложение имеет каналы в прямом эфире, посвящённые соревнованиям, гонкам на мотоциклах, велоспорту и экстремальным видам спорта. Также есть огромное количество VOD-контента: записи соревнований, гонок, видеоролики, сериалы и многое другое.\n\nМодификация: без рекламы и с другими улучшениями. Разблокирован просмотр без авторизации, на начальном экране нажмите «пропустить».",
+      "url": "https://www.dropbox.com/scl/fi/eoxyyn8eka3etl21m2jhw/Re
