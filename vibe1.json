@@ -1,4 +1,26 @@
 {
+	"links": [{
+			"title": "ТГК Шутник сено",
+			"description": "Телеграм канал создателя конфига",
+			"url": "https://t.me/seno_bez_shutok",
+			"mirror": "https://web.archive.org/web/20220930044718/https://technozon.s-host.net/TorrServer-android-arm7.so",
+			"category": "Важные ссылки"
+		},
+		{
+			"title": "Конфиг VPN",
+			"description": "Обходд блокировок для ютуб",
+			"url": "https://generator-warp.vercel.app/",
+			"mirror": "https://warp.llimonix.pw/",
+			"category": "Важные ссылки"
+		},
+		{
+			"title": "Плагины для Lampa",
+			"description": "Плагины для приложения Lampa",
+			"url": "https://t.me/slimbox_chat/232413/290419",
+            "mirror": "https://t.me/lampa_plugins/537890/537902",
+			"category": "Важные ссылки"
+		},
+	],
   "apps": [
     {
       "title": "Aurora store LATEST",
