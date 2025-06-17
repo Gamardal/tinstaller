@@ -4,21 +4,21 @@
       "description": "Телеграм канал создателя конфига",
       "url": "https://t.me/seno_bez_shutok",
       "category": "Важные ссылки"
-		},
-		{
+    },
+    {
       "title": "Конфиг VPN",
       "description": "Обходд блокировок для ютуб",
       "url": "https://generator-warp.vercel.app/",
       "mirror": "https://warp.llimonix.pw/",
       "category": "Важные ссылки"
-		},
-		{
+    },
+    {
       "title": "Плагины для Lampa",
       "description": "Плагины для приложения Lampa",
       "url": "https://t.me/slimbox_chat/232413/290419",
       "mirror": "https://t.me/lampa_plugins/537890/537902",
       "category": "Важные ссылки"
-		},
+    },
 	],
   "apps": [
     {
