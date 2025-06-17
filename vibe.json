@@ -175,13 +175,6 @@
 			"category": "Браузер"
 		},
 		{
-			"title": "JustPlayer",
-			"description": "Плеер для Dloby Vision",
-			"url": "https://web.archive.org/web/20220930044718/https://tecnozon.h1n.ru/justplayer.apk",
-			"mirror": "https://web.archive.org/web/20220930044718/https://technozon.s-host.net/justplayer.apk",
-			"category": "Плеер"
-		},
-		{
 			"title": "MX Player",
 			"description": "Популярный видео плеер. Взломанная вресия",
 			"url": "https://web.archive.org/web/20220930044718/https://tecnozon.h1n.ru/mxplayer.apk",
@@ -220,21 +213,6 @@
 			"category": "Лончеры"
 		},
 		{
-			"title": "Autostart No Root",
-			"description": "Автостарт приложений на тв боксе. ЗАЖАТЬ ДЛЯ ОБЗОРА",
-			"url": "https://web.archive.org/web/20220930044718/https://tecnozon.h1n.ru/autostartnoroot.apk",
-			"mirror": "https://web.archive.org/web/20220930044718/https://technozon.s-host.net/autostartnoroot.apk",
-			"app_review": "https://youtu.be/871I6v68zA0",
-			"category": "Утилиты"
-		},
-		{
-			"title": "ESExplorer",
-			"description": "Крутой проводник",
-			"url": "https://web.archive.org/web/20220930044718/https://tecnozon.h1n.ru/esexplorer.apk",
-			"mirror": "https://web.archive.org/web/20220930044718/https://technozon.s-host.net/esexplorer.apk",
-			"category": "Утилиты"
-		},
-		{
 			"title": "Xplore",
 			"description": "Крутой проводник",
 			"url": "https://web.archive.org/web/20220930044718/https://tecnozon.h1n.ru/xplore.apk",
@@ -253,15 +231,7 @@
 			"description": "Облачный гейминг для Андроид. Требуется ВПН. ЗАЖАТЬ ДЛЯ ОБЗОРА",
 			"url": "https://web.archive.org/web/20220930044718/https://tecnozon.h1n.ru/com.nvidia.apk",
 			"mirror": "https://web.archive.org/web/20220930044718/https://technozon.s-host.net/com.nvidia.apk",
-			"app_review": "https://web.archive.org/web/20220930044718/https://youtu.be/PgUNKbKZinY",
-			"category": "Утилиты"
-		},
-		{
-			"title": "Easy Fire Tools",
-			"description": "Установка приложений в ТВ бокс по Wi-Fi. ЗАЖАТЬ ДЛЯ ОБЗОРА",
-			"url": "https://web.archive.org/web/20220930044718/https://tecnozon.h1n.ru/EasyFireTools.com.apk",
-			"mirror": "https://web.archive.org/web/20220930044718/https://technozon.s-host.net/EasyFireTools.com.apk",
-			"app_review": "https://web.archive.org/web/20220930044718/https://youtu.be/1eIy_YBm2OI",
+			"app_review": "https://youtu.be/PgUNKbKZinY",
 			"category": "Утилиты"
 		},
 		{
@@ -292,7 +262,7 @@
 			"description": "Навигационная панель (3 кнопки) Для боксов у которых ее нет. ЗАЖАТЬ ДЛЯ ОБЗОРА",
 			"url": "https://web.archive.org/web/20220930044718/https://tecnozon.h1n.ru/navbar.apk",
 			"mirror": "https://web.archive.org/web/20220930044718/https://technozon.s-host.net/navbar.apk",
-			"app_review": "https://web.archive.org/web/20220930044718/https://youtu.be/KH5vUFjmX9s",
+			"app_review": "https://youtu.be/KH5vUFjmX9s",
 			"category": "Утилиты"
 		},
 		{
@@ -300,15 +270,7 @@
 			"description": "Шторка уведомлений для боксов где она отключена. ЗАЖАТЬ ДЛЯ ОБЗОРА",
 			"url": "https://web.archive.org/web/20220930044718/https://tecnozon.h1n.ru/shtorka.apk",
 			"mirror": "https://web.archive.org/web/20220930044718/https://technozon.s-host.net/shtorka.apk",
-			"app_review": "https://web.archive.org/web/20220930044718/https://youtu.be/KH5vUFjmX9s",
-			"category": "Утилиты"
-		},
-		{
-			"title": "Sleep Timer",
-			"description": "Sleep Timer для ТВ БОКСА. ЗАЖАТЬ ДЛЯ ОБЗОРА",
-			"url": "https://web.archive.org/web/20220930044718/https://tecnozon.h1n.ru/SleepTVTimer.apk",
-			"mirror": "https://web.archive.org/web/20220930044718/https://technozon.s-host.net/SleepTVTimer.apk",
-			"app_review": "https://web.archive.org/web/20220930044718/https://youtu.be/VwP83Odsp1I",
+			"app_review": "https://youtu.be/KH5vUFjmX9s",
 			"category": "Утилиты"
 		},
   {
